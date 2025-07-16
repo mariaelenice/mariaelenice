@@ -5,7 +5,7 @@
 
 # Olá, Me chamo Maria Elenice 👋
 Sou formada em Estatística e trabalho com análises quantitativas e modelagem de dados.
-- 📊 Especialista em análises estatísticas com R, Python,SQL,Excel.
+- 📊 Análises estatísticas com R, Python,SQL,Excel.
 - 🧠 Interesse em machine learning e inteligência artificial
 - 📈 Visualização de dados com PowerBI 
 
