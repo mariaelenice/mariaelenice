@@ -71,7 +71,7 @@ Sou formada em Estatística e trabalho com análises quantitativas e modelagem d
     title="Power BI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
 />
 
 <img 
