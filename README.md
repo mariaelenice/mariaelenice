@@ -82,7 +82,14 @@ Sou formada em Estatística e trabalho com análises quantitativas e modelagem d
     style="padding-right: 10px;" 
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPvCpE26qGzfEuGmXvHdCSB9pWK_2ayIMQmQ&s" 
 />
-
+<img 
+    align="left" 
+    alt="Airflow" 
+    title="Apache Airflow" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/apacheairflow" 
+/>
 
 <br/>
 <br/>
