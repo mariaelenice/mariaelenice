@@ -30,7 +30,7 @@ Sou formada em Estatística e trabalho com análises quantitativas e modelagem d
    <br/>
 <small>
     👤 <strong>Autora:</strong> Maria Elenice Silva Alves | 
-    🎓 <strong>Orientador(a):</strong> Giseli Gomes Dalla Nora
+    🎓 <strong>Orientador:</strong> Giseli Gomes Dalla Nora
   </small>
 </p>
 
