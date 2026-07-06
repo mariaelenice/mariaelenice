@@ -98,6 +98,14 @@ Sou formada em Estatística e trabalho com análises quantitativas e modelagem d
     style="padding-right: 10px;" 
     src="https://cdn.simpleicons.org/apachespark" 
 />
+<img 
+    align="left" 
+    alt="Apache NiFi" 
+    title="Apache NiFi" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachenifi/apachenifi-original.svg" 
+/>
 
 <br/>
 <br/>
