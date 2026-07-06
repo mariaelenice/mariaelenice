@@ -90,7 +90,14 @@ Sou formada em Estatística e trabalho com análises quantitativas e modelagem d
     style="padding-right: 10px;" 
     src="https://cdn.simpleicons.org/apacheairflow" 
 />
-
+<img 
+    align="left" 
+    alt="Apache Spark" 
+    title="Apache Spark" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/apachespark" 
+/>
 <br/>
 <br/>
 
