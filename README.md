@@ -9,6 +9,27 @@ Sou formada em Estatística e trabalho com análises quantitativas e modelagem d
 - 🧠 Interesse em machine learning e inteligência artificial
 - 📈 Visualização de dados com PowerBI 
 
+## 📚 Meu Artigo
+
+<p align="left">
+  <img 
+    align="left" 
+    alt="Artigo" 
+    title="Artigo Científico" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
+  />
+  <strong>
+    <a href="https://periodicos.ufms.br/index.php/revpan/article/view/24543" target="_blank">
+      Guias de pesca: fonte de informações reflexões sobre a realidade da pesca artesanal profissional de Mato Grosso
+    </a>
+  </strong>
+  <br/>
+  <em>Publicado em Revista Pantaneira - 2026</em>
+</p>
+
+<br/>
 
 
 
